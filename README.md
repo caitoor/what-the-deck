@@ -1,38 +1,37 @@
-# sv
+# What The Deck 🃏
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+THis is a web application for creating custom card decks from your Google Sheets data. Transform spreadsheets into beautiful, printable cards with ease.
 
-## Creating a project
+## Key Features
 
-If you're seeing this, you've probably already done this step. Congrats!
+✨ **Easy Data Import** - Connect directly to Google Sheets or upload CSV files  
+🎨 **Visual Template Designer** - Drag-and-drop interface to design your card layout  
+📝 **Dynamic Text Fields** - Map spreadsheet columns to card elements  
+🖼️ **Image Support** - Add static images or map image columns from your data  
+🎯 **Real-time Preview** - See your cards as you design them  
+📱 **Responsive Design** - Works on desktop and mobile devices  
+💾 **Export Options** - Generate and download your complete card deck as zipped JPG or PDF
 
-```sh
-# create a new project in the current directory
-npx sv create
+## Getting Started
 
-# create a new project in my-app
-npx sv create my-app
-```
+```bash
+# Install dependencies
+npm install
 
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```sh
+# Start development server
 npm run dev
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```sh
+# Build for production
 npm run build
 ```
 
-You can preview the production build with `npm run preview`.
+## Tech Stack
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+- **SvelteKit** - Modern web framework
+- **JavaScript** - Dynamic functionality
+- **Google Sheets API** - Data integration
+- **Canvas/PDF** - Card generation and export
+
+---
+
+*Built with ❤️ and AI using SvelteKit*
