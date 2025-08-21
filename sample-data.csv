@@ -1,0 +1,11 @@
+Name,Description,Cost,Type,Rarity
+Lightning Bolt,Deal 3 damage to any target,1,Instant,Common
+Black Lotus,Add 3 mana of any one color,0,Artifact,Mythic Rare
+Counterspell,Counter target spell,2,Instant,Common
+Serra Angel,Flying vigilance 4/4 creature,5,Creature,Uncommon
+Fireball,Deal X damage to any target,1,Sorcery,Common
+Ancestral Recall,Draw 3 cards,1,Instant,Rare
+Giant Growth,Target creature gets +3/+3,1,Instant,Common
+Swords to Plowshares,Exile target creature,1,Instant,Uncommon
+Dark Ritual,Add 3 black mana,1,Instant,Common
+Force of Will,Counter target spell paying 1 life,5,Instant,Rare
